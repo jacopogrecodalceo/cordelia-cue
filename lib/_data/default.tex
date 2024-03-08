@@ -1,0 +1,51 @@
+\documentclass[a4paper, landscape]{book}
+\usepackage{tikz}
+\usepackage{pdflscape}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{pdfpages}
+\usepackage[margin=15mm]{geometry}
+\usepackage{graphicx} %for images
+\usepackage[cc]{titlepic}
+
+\usepackage{pgffor} %for \foreach
+\usepackage{verbatim} %for comments
+\usepackage{fancyhdr} %for deco
+\usepackage{fourier-orns} %for deco
+\usepackage{float}
+\usepackage{url}
+
+\title{---TITLE---}
+\titlepic{\includegraphics[width=\textwidth/8]{---PIC---}}
+\author{jacopo greco d'alceo}
+\date{\today}
+
+\makeatletter
+\let\doctitle\@title
+\makeatother
+
+\makeatletter
+\let\docauthor\@author
+\makeatother
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\doctitle}
+\fancyhead[R]{\date{\today}}
+\fancyfoot[R]{\thepage}
+\fancyfoot[C]{\docauthor}
+
+\renewcommand\footrule{%
+\hrulefill
+\raisebox{-2pt}
+{\quad\decofourleft\space\floweroneleft\space\decofourright\quad}%
+\hrulefill}
+
+\begin{document}
+
+\maketitle
+\clearpage
+\pagebreak
+\setcounter{page}{1}
+
+

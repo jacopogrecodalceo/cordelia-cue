@@ -1,0 +1,172 @@
+{
+    "0-PROLOGUE": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/0-PROLOGUE.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/0-PROLOGUE.png",
+        "duration": "01:54"
+    },
+    "0-PROLOGUE-souffle-1": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/0-PROLOGUE-souffle-1.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/0-PROLOGUE-souffle-1.png",
+        "duration": "00:24"
+    },
+    "0-PROLOGUE-souffle-2": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/0-PROLOGUE-souffle-2.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/0-PROLOGUE-souffle-2.png",
+        "duration": "00:18"
+    },
+    "0-PROLOGUE-souffle-3": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/0-PROLOGUE-souffle-3.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/0-PROLOGUE-souffle-3.png",
+        "duration": "00:24"
+    },
+    "0-PROLOGUE-souffle-4": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/0-PROLOGUE-souffle-4.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/0-PROLOGUE-souffle-4.png",
+        "duration": "00:27"
+    },
+    "1-ZEPHIRE-enter": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/1-ZEPHIRE-enter.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/1-ZEPHIRE-enter.png",
+        "duration": "03:09"
+    },
+    "1-ZEPHIRE-nouage": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/1-ZEPHIRE-nouage.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/1-ZEPHIRE-nouage.png",
+        "duration": "01:09"
+    },
+    "1-ZEPHIRE-prestrophe": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/1-ZEPHIRE-prestrophe.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/1-ZEPHIRE-prestrophe.png",
+        "duration": "01:34"
+    },
+    "1-ZEPHIRE-insertion-1": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/1-ZEPHIRE-insertion-1.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/1-ZEPHIRE-insertion-1.png",
+        "duration": "00:16"
+    },
+    "1-ZEPHIRE-insertion-2": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/1-ZEPHIRE-insertion-2.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/1-ZEPHIRE-insertion-2.png",
+        "duration": "00:13"
+    },
+    "2-STROPHEs SAPPHIQUEs": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/2-STROPHEs SAPPHIQUEs.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/2-STROPHEs SAPPHIQUEs.png",
+        "duration": "02:09"
+    },
+    "2-STROPHEs SAPPHIQUEs-psyche solo": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/2-STROPHEs SAPPHIQUEs-psyche solo.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/2-STROPHEs SAPPHIQUEs-psyche solo.png",
+        "duration": "01:52"
+    },
+    "3-PAS DE DEUX-touch!": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/3-PAS DE DEUX-touch!.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/3-PAS DE DEUX-touch!.png",
+        "duration": "01:31"
+    },
+    "3-PAS DE DEUX-wings!": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/3-PAS DE DEUX-wings!.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/3-PAS DE DEUX-wings!.png",
+        "duration": "01:01"
+    },
+    "3-PAS DE DEUX-bang!": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/3-PAS DE DEUX-bang!.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/3-PAS DE DEUX-bang!.png",
+        "duration": "00:41"
+    },
+    "3-PAS DE DEUX-jump!": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/3-PAS DE DEUX-jump!.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/3-PAS DE DEUX-jump!.png",
+        "duration": "00:20"
+    },
+    "3-PAS DE DEUX-jump again!": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/3-PAS DE DEUX-jump again!.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/3-PAS DE DEUX-jump again!.png",
+        "duration": "00:34"
+    },
+    "3-PAS DE DEUX-fly!": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/3-PAS DE DEUX-fly!.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/3-PAS DE DEUX-fly!.png",
+        "duration": "00:04"
+    },
+    "3-PAS DE DEUX-die!": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/3-PAS DE DEUX-die!.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/3-PAS DE DEUX-die!.png",
+        "duration": "02:41"
+    },
+    "3-PAS DE DEUX-bridge": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/3-PAS DE DEUX-bridge.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/3-PAS DE DEUX-bridge.png",
+        "duration": "01:07"
+    },
+    "4-ENFERs-becoming arpies": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-becoming arpies.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-becoming arpies.png",
+        "duration": "00:15"
+    },
+    "4-ENFERs-enter blow": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-enter blow.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-enter blow.png",
+        "duration": "01:09"
+    },
+    "4-ENFERs-drag": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-drag.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-drag.png",
+        "duration": "00:29"
+    },
+    "4-ENFERs-blow hairs": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-blow hairs.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-blow hairs.png",
+        "duration": "00:43"
+    },
+    "4-ENFERs-earthquake": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-earthquake.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-earthquake.png",
+        "duration": "01:03"
+    },
+    "4-ENFERs-blow objects": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-blow objects.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-blow objects.png",
+        "duration": "00:43"
+    },
+    "4-ENFERs-zephire run!": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-zephire run!.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-zephire run!.png",
+        "duration": "06:29"
+    },
+    "4-ENFERs-possibility": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-possibility.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-possibility.png",
+        "duration": "00:52"
+    },
+    "4-ENFERs-blow inside": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-blow inside.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-blow inside.png",
+        "duration": "01:35"
+    },
+    "4-ENFERs-psyche bang-1": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-psyche bang-1.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-psyche bang-1.png",
+        "duration": "00:14"
+    },
+    "4-ENFERs-fil": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-fil.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-fil.png",
+        "duration": "01:21"
+    },
+    "4-ENFERs-psyche bang-2": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-psyche bang-2.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-psyche bang-2.png",
+        "duration": "00:15"
+    },
+    "4-ENFERs-psyche bang-3": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/4-ENFERs-psyche bang-3.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/4-ENFERs-psyche bang-3.png",
+        "duration": "00:14"
+    },
+    "5-EPILOGUE": {
+        "audio_path": "/Users/j/Desktop/corydill/sonvs/5-EPILOGUE.wav",
+        "pic_path": "/Users/j/Desktop/corydill/pics/5-EPILOGUE.png",
+        "duration": "02:02"
+    }
+}

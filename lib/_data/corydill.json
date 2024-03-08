@@ -1,0 +1,191 @@
+{
+    "0-introduction-240210": {
+        "basename": "0-introduction-240210",
+        "basename_with_ext": "0-introduction-240210.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/0-introduction-240210.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/0-introduction-240210.png",
+        "duration": "02:44"
+    },
+    "1b-zephire-240210": {
+        "basename": "1b-zephire-240210",
+        "basename_with_ext": "1b-zephire-240210.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/1b-zephire-240210.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/1b-zephire-240210.png",
+        "duration": "03:09"
+    },
+    "1e-nouage-240204": {
+        "basename": "1e-nouage-240204",
+        "basename_with_ext": "1e-nouage-240204.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/1e-nouage-240204.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/1e-nouage-240204.png",
+        "duration": "01:09"
+    },
+    "1f-prestrophe-240210": {
+        "basename": "1f-prestrophe-240210",
+        "basename_with_ext": "1f-prestrophe-240210.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/1f-prestrophe-240210.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/1f-prestrophe-240210.png",
+        "duration": "01:34"
+    },
+    "1g01-insertions-240210": {
+        "basename": "1g01-insertions-240210",
+        "basename_with_ext": "1g01-insertions-240210.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/1g01-insertions-240210.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/1g01-insertions-240210.png",
+        "duration": "00:18"
+    },
+    "1g02-insertions-240210": {
+        "basename": "1g02-insertions-240210",
+        "basename_with_ext": "1g02-insertions-240210.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/1g02-insertions-240210.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/1g02-insertions-240210.png",
+        "duration": "00:16"
+    },
+    "2a01-strophes_sapphiques-240211": {
+        "basename": "2a01-strophes_sapphiques-240211",
+        "basename_with_ext": "2a01-strophes_sapphiques-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/2a01-strophes_sapphiques-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/2a01-strophes_sapphiques-240211.png",
+        "duration": "02:09"
+    },
+    "2a02-strophes_sapphiques-240211": {
+        "basename": "2a02-strophes_sapphiques-240211",
+        "basename_with_ext": "2a02-strophes_sapphiques-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/2a02-strophes_sapphiques-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/2a02-strophes_sapphiques-240211.png",
+        "duration": "01:52"
+    },
+    "3a01-pas_de_deux-240211": {
+        "basename": "3a01-pas_de_deux-240211",
+        "basename_with_ext": "3a01-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a01-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a01-pas_de_deux-240211.png",
+        "duration": "01:31"
+    },
+    "3a02-pas_de_deux-240211": {
+        "basename": "3a02-pas_de_deux-240211",
+        "basename_with_ext": "3a02-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a02-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a02-pas_de_deux-240211.png",
+        "duration": "01:01"
+    },
+    "3a03-pas_de_deux-240211": {
+        "basename": "3a03-pas_de_deux-240211",
+        "basename_with_ext": "3a03-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a03-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a03-pas_de_deux-240211.png",
+        "duration": "00:41"
+    },
+    "3a301-pas_de_deux-240211": {
+        "basename": "3a301-pas_de_deux-240211",
+        "basename_with_ext": "3a301-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a301-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a301-pas_de_deux-240211.png",
+        "duration": "00:20"
+    },
+    "3a302-pas_de_deux-240211": {
+        "basename": "3a302-pas_de_deux-240211",
+        "basename_with_ext": "3a302-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a302-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a302-pas_de_deux-240211.png",
+        "duration": "00:34"
+    },
+    "3a303-pas_de_deux-240211": {
+        "basename": "3a303-pas_de_deux-240211",
+        "basename_with_ext": "3a303-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a303-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a303-pas_de_deux-240211.png",
+        "duration": "00:04"
+    },
+    "3a304-pas_de_deux-240211": {
+        "basename": "3a304-pas_de_deux-240211",
+        "basename_with_ext": "3a304-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a304-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a304-pas_de_deux-240211.png",
+        "duration": "01:21"
+    },
+    "3a305-pas_de_deux-240211": {
+        "basename": "3a305-pas_de_deux-240211",
+        "basename_with_ext": "3a305-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a305-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a305-pas_de_deux-240211.png",
+        "duration": "00:59"
+    },
+    "3a306-pas_de_deux-240211": {
+        "basename": "3a306-pas_de_deux-240211",
+        "basename_with_ext": "3a306-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a306-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a306-pas_de_deux-240211.png",
+        "duration": "01:07"
+    },
+    "3a307-pas_de_deux-240211": {
+        "basename": "3a307-pas_de_deux-240211",
+        "basename_with_ext": "3a307-pas_de_deux-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3a307-pas_de_deux-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3a307-pas_de_deux-240211.png",
+        "duration": "01:48"
+    },
+    "3b0-trans": {
+        "basename": "3b0-trans",
+        "basename_with_ext": "3b0-trans.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3b0-trans.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3b0-trans.png",
+        "duration": "00:15"
+    },
+    "3b01-enfer-240211": {
+        "basename": "3b01-enfer-240211",
+        "basename_with_ext": "3b01-enfer-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3b01-enfer-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3b01-enfer-240211.png",
+        "duration": "01:09"
+    },
+    "3b01a-drag-240211": {
+        "basename": "3b01a-drag-240211",
+        "basename_with_ext": "3b01a-drag-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3b01a-drag-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3b01a-drag-240211.png",
+        "duration": "00:29"
+    },
+    "3b02-enfer-240211": {
+        "basename": "3b02-enfer-240211",
+        "basename_with_ext": "3b02-enfer-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3b02-enfer-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3b02-enfer-240211.png",
+        "duration": "00:43"
+    },
+    "3b02a-earthquake-240211": {
+        "basename": "3b02a-earthquake-240211",
+        "basename_with_ext": "3b02a-earthquake-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3b02a-earthquake-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3b02a-earthquake-240211.png",
+        "duration": "00:40"
+    },
+    "3b03-enfer-240211": {
+        "basename": "3b03-enfer-240211",
+        "basename_with_ext": "3b03-enfer-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3b03-enfer-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3b03-enfer-240211.png",
+        "duration": "00:43"
+    },
+    "3b04-enfer-240211": {
+        "basename": "3b04-enfer-240211",
+        "basename_with_ext": "3b04-enfer-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3b04-enfer-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3b04-enfer-240211.png",
+        "duration": "00:58"
+    },
+    "3b05-enfer-240211": {
+        "basename": "3b05-enfer-240211",
+        "basename_with_ext": "3b05-enfer-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3b05-enfer-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3b05-enfer-240211.png",
+        "duration": "02:09"
+    },
+    "3c-\u00e9pilogue-240211": {
+        "basename": "3c-\u00e9pilogue-240211",
+        "basename_with_ext": "3c-\u00e9pilogue-240211.wav",
+        "audio_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/sonvs/3c-\u00e9pilogue-240211.wav",
+        "pic_path": "/Users/j/Documents/PROJECTs/ateliers_hiver/corydill/pics/3c-\u00e9pilogue-240211.png",
+        "duration": "02:02"
+    }
+}
